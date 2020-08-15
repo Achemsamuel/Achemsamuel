@@ -14,7 +14,9 @@ Thanks for stopping by 👨‍💻
 Feel free to reach out to me on [Twitter](https://twitter.com/_Achimedes), [Instagram](https://www.instagram.com/achemsamuel), or [LinkedIn](https://www.linkedin.com/in/achemsamuel)
 
 <p align="left"> 
-   <b>Visitor count</b><br>	
+   <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/achemsamuel/count.svg" />	
+</p>
 <!--
 **Achemsamuel/Achemsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
