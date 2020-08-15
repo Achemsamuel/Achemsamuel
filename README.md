@@ -9,9 +9,12 @@ I currently lead the iOS Engineering effort in the learn division at Softcom, an
 
 The bulk of my work including libraries I've created are in private repositories 😥; I know, I promise to do better 🤗, so you'd definitely be seeing more of my work here!
 
+Thanks for stopping by 👨‍💻
+
 Feel free to reach out to me on [Twitter](https://twitter.com/_Achimedes), [Instagram](https://www.instagram.com/achemsamuel), or [LinkedIn](https://www.linkedin.com/in/achemsamuel)
 
-Thanks for stopping by 👨‍💻
+<p align="left"> 
+   <b>Visitor count</b><br>	
 <!--
 **Achemsamuel/Achemsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
